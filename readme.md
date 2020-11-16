@@ -1,12 +1,12 @@
 # **TGC DSD Assignment 1**
 
-### **Motivation:**
+## **Motivation:**
 This project requires us to create a website with interactive elements implemented using JavaScript, while also demonstrating 
 understanding of the Five Planes of UI/UX. I have chosen to create an e-commerce site with the purpose of selling quality leathercraft tools and kits 
 with a user-friendly and aesthetically pleasing site that can be navigated intuitively. 
 
---- 
-### **Goals & User stories:**
+# ---
+## **Goals & User stories:**
 
 #### Owner's Goal:  To sell my products online with ease and have good business insights that help in decision-making. 
 
@@ -24,10 +24,10 @@ with a user-friendly and aesthetically pleasing site that can be navigated intui
 - As a site visitor, I want to check out as a guest so I can make my first purchase without the hassle of creating an account. 
 - As a site visitor, I want to view items by category so I can view specific items at a glance. 
 
---- 
+# --- 
 <!-- 2. List down the scope of the project (features and requirements, non-technical requirements, content requirements) 
 Non-functional Requirements (general characteristics): -->
-### **Requirements:** 
+## **Requirements:** 
 
 #### Non-functional Requirements: 
 - mobile responsiveness: the website should work on as many devices as possible
@@ -57,11 +57,11 @@ Non-functional Requirements (general characteristics): -->
 - Terms of Service
 - Social media links
 
---- 
-### Structure/ Sitemap: 
+# --- 
+## Structure/ Sitemap: 
 ![](readme-sitemap/sitemap.jpg)
 
---- 
+# --- 
 4. Provide the skeleton of the project (mock-ups) 
 you will read this first
 
@@ -73,7 +73,7 @@ need to answer:
 "What is the total of my shopping cart?"
 "How much delivery fees do I have to pay?"
 
---- 
+# --- 
 5. Explain the choices behind the surface of the project (why a particular font, color scheme, mood of background images etc.)
 ● Respect use of whitespace and contrast
 ● Order and context
