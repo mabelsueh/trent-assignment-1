@@ -35,6 +35,7 @@ Non-functional Requirements (general characteristics): -->
 - terms and conditions
 - 
 
+# 
 ### Functional Requirements:
 <!-- (how product behaves - feature, mandatory) -->
 - Guests should be able to check out without creating an account
@@ -42,6 +43,7 @@ Non-functional Requirements (general characteristics): -->
 - Product information should be stored in a separate JSON file
 - 
 
+# 
 ### Content requirements:
 - Logo leading to homepage
 - Favicon
