@@ -61,7 +61,7 @@ Non-functional Requirements (general characteristics): -->
 
 # 
 ## Structure/ Sitemap: 
-![](pictures/sitemap.jpg)
+![](images/sitemap.jpg)
 
 # 
 4. Provide the skeleton of the project (mock-ups) 
