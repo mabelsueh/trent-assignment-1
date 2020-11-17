@@ -1,4 +1,11 @@
-body {background-color: black
+body {
+    background-color: #ffffff;
+}
 
-/* body {background-color: #fcfaed
-} */
+.section1 img{
+    width: 100%;
+}
+
+nav {
+    justify-content: space-between;
+}
