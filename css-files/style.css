@@ -18,3 +18,11 @@ body {
     height: 100vh;
     background-color: blue;
 }
+
+.footer-socials {
+    display: inline-block;
+}
+
+.footer {
+    justify-content: space-between;
+}
