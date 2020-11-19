@@ -13,3 +13,8 @@ nav {
 body { 
     font-family: "Barlow Semi Condensed",sans-serif;
 }
+
+.test {
+    height: 100vh;
+    background-color: blue;
+}
