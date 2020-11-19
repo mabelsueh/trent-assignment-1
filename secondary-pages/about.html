@@ -7,48 +7,61 @@
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
 		integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 	<link rel="stylesheet" href="style.css" type="text/css">
-	<link rel="icon" href="pictures/favicon.png" />
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css" />
 	<script src="script.js"></script>
 	<title>Blank Slate</title>
 </head>
 
 <body>
-	<!-- does not stretch fully on lg monitor -->
-	<nav class="navbar navbar-expand-lg navbar-light bg-light">
-		<a href="#" class="navbar-brand">
-			<img src="pictures/favicon.png" width="30" height="30" class="d-inline-block align-top" alt="">
+	<nav class="navbar navbar-expand-sm navbar-light bg-light">
+		<a href="#index.html" class="navbar-brand">
+			<img src="images/favicon.png" width="30" height="30" class="d-inline-block align-top" alt="">
         Blank Slate
         </a>
-			<button class="navbar-toggler" data-toggle="collapse" data-target="#navbarToggler">
+		<button class="navbar-toggler" data-toggle="collapse" data-target="#navbarToggler">
             <span class="navbar-toggler-icon"></span>
         </button>
+		<section class="section0">
 			<div class="collapse navbar-collapse" id="navbarToggler">
 				<ul class="navbar-nav">
 					<li class="nav-item">
-						<a href="#about.html" class="nav-link">About Us</a>
+						<a href="/secondary-pages/about.html" class="nav-link">About Us</a>
 					</li>
 					<li class="nav-item">
-						<a href="#products" class="nav-link">Products</a>
+						<a href="/secondary-pages/products.html" class="nav-link">Products</a>
 					</li>
 					<li class="nav-item">
-						<a href="#faq" class="nav-link">FAQ</a>
+						<a href="/secondary-pages/faq.html" class="nav-link">FAQ</a>
 
 					<li class="nav-item">
-						<a href="#contact" class="nav-link">Contact</a>
+						<a href="/secondary-pages/contact.html" class="nav-link">Contact</a>
 					</li>
 				</ul>
-				<!-- cannot make search on right hand side -->
 				<form class="form-inline">
-					<input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-					<button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+					<input class="form-control mr-sm-0" type="search" placeholder="Search" aria-label="Search">
+					<button class="btn btn-outline-secondary my-2 my-sm-1" type="submit">Search</button>
 				</form>
 			</div>
+		</section>
+		<!-- cannot make search on right hand side -->
+		<section class="section0.5">
+			<a class="btn btn-outline-secondary my-0 my-sm-0" href="/secondary-pages/cart.html" role="button">
+				<i class="fas fa-shopping-cart"></i>
+			</a>
+		</section>
 	</nav>
 	<section class="section1">
-		<img src="pictures/main.png"/>
+		<img src="images/main.png"/>
     </section>
+		<section class="section2">
+			Featured Items here (need json)
+		</section>
 		<section class="section3">
-			Footer with quick links and deets
+			<div class="footer container-xl row">Quick Links
+            <div class= "col-sm">
+            </div>
+            Footer with quick links and deets
+			</div>
 		</section>
 
 

@@ -4,6 +4,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="icon" href="images/favicon.png" type="image">
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
 		integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
 	<link rel="stylesheet" href="style.css" type="text/css">
@@ -18,37 +19,33 @@
 			<img src="images/favicon.png" width="30" height="30" class="d-inline-block align-top" alt="">
         Blank Slate
         </a>
-		<button class="navbar-toggler" data-toggle="collapse" data-target="#navbarToggler">
+			<button class="navbar-toggler" data-toggle="collapse" data-target="#navbarToggler">
             <span class="navbar-toggler-icon"></span>
         </button>
-		<section class="section0">
-			<div class="collapse navbar-collapse" id="navbarToggler">
-				<ul class="navbar-nav">
-					<li class="nav-item">
-						<a href="/secondary-pages/about.html" class="nav-link">About Us</a>
-					</li>
-					<li class="nav-item">
-						<a href="/secondary-pages/products.html" class="nav-link">Products</a>
-					</li>
-					<li class="nav-item">
-						<a href="/secondary-pages/faq.html" class="nav-link">FAQ</a>
+				<div class="collapse navbar-collapse" id="navbarToggler">
+					<ul class="navbar-nav">
+						<li class="nav-item">
+							<a class="nav-link" href="/secondary-pages/about.html">About Us</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="/secondary-pages/products.html">Products</a>
+						</li>
+						<li class="nav-item">
+							<a class="nav-link" href="/secondary-pages/faq.html">FAQ</a>
 
-					<li class="nav-item">
-						<a href="/secondary-pages/contact.html" class="nav-link">Contact</a>
-					</li>
-				</ul>
-				<form class="form-inline">
+						<li class="nav-item">
+							<a class="nav-link" href="/secondary-pages/contact.html">Contact</a>
+						</li>
+					</ul>
+				</div>
+				<form class="form-inline my-2 my-lg-0 d-lg-block d-none">
 					<input class="form-control mr-sm-0" type="search" placeholder="Search" aria-label="Search">
-					<button class="btn btn-outline-secondary my-2 my-sm-1" type="submit">Search</button>
+					<button class="btn btn-outline-secondary my-2 my-sm-0" type="submit">Search</button>
 				</form>
-			</div>
-		</section>
-		<!-- cannot make search on right hand side -->
-		<section class="section0.5">
-			<a class="btn btn-outline-secondary my-0 my-sm-0" href="/secondary-pages/cart.html" role="button">
-				<i class="fas fa-shopping-cart"></i>
-			</a>
-		</section>
+			<!-- cannot make search on right hand side -->
+				<a class="btn btn-outline-secondary ml-2" href="/secondary-pages/cart.html" role="button">
+					<i class="fas fa-shopping-cart"></i>
+				</a>
 	</nav>
 	<section class="section1">
 		<img src="images/main.png"/>
@@ -57,11 +54,29 @@
 			Featured Items here (need json)
 		</section>
 		<section class="section3">
-			Footer with quick links and deets
+			<div class="footer container-xl row col-8">Quick Links
+				<a href="/secondary-pages/about.html" class="nav-link">About Us</a>
+				<a href="/secondary-pages/products.html" class="nav-link">Products</a>
+				<a href="/secondary-pages/faq.html" class="nav-link">FAQ</a>
+				<a href="/secondary-pages/contact.html" class="nav-link">Contact</a>
+			</div>
+
+			<div class="col-4">
+				Footer with quick links and deets
+
+				<a class="btn my-0 my-sm-0 btn-lg" href="https://www.facebook.com/" role="button">
+					<i class="fab fa-facebook-square"></i>
+				</a>
+				<a class="btn my-0 my-sm-0 btn-lg" href="https://www.instagram.com/" role="button">
+					<i class="fab fa-instagram-square"></i>
+				</a>
+			</div>
 		</section>
 
 
 
+
+</body>
 		<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
 			integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous">
 		</script>
@@ -71,6 +86,4 @@
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
 			integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous">
 		</script>
-</body>
-
 </html>
