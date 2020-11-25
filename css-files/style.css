@@ -49,10 +49,11 @@ nav {
 .section-light {
     background-color: #ffffff;
     color: #666;
+    opacity: 0.8;
 }
 
 .section-dark {
-    background-color: #5e4240;
+    background-color: rgb(93, 66, 63, 0.97);
     color: #ddd;
 }
 
