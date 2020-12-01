@@ -6,7 +6,6 @@ body, html {
     font-weight: 500;
     line-height: 2em;
     color: #666;
-    background-color: #ffffff;
 }
 
 nav {
@@ -33,7 +32,7 @@ nav {
 
 .img2 {
     background-image: url('/images/pattern.png');
-    min-height: 400px;
+    min-height: 80%;
 }
 
 .img3 {
@@ -46,15 +45,15 @@ nav {
     padding: 35px 60px;
 }
 
-.section-light {
+.about {
     background-color: #ffffff;
     color: #666;
     opacity: 0.8;
+    min-height: 60%;
 }
 
 .section-dark {
-    background-color: rgb(93, 66, 63, 0.97);
-    color: #ddd;
+    background-color: rgba(93, 66, 63, 0.97);
 }
 
 .pictext {
@@ -80,4 +79,8 @@ nav {
 
 .section3 {
     height: 100px;
+}
+
+.opacity{
+    opacity: 0.5;
 }
