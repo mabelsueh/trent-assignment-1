@@ -3,9 +3,10 @@ body, html {
     margin: 0;
     font-size: 16px;
     font-family: 'Montserrat', sans-serif !important;
+    color: #666;
     font-weight: 500;
     line-height: 2em;
-    color: #666;
+    
 }
 
 nav {
@@ -18,64 +19,45 @@ nav {
 }
 .img1, .img2, .img3, .img4, .img5, .img6 {
     position: relative;
-    opacity: 1;
     background-position: center;
-    background-size: cover;
     background-repeat: no-repeat;
+    background-size: cover;
     /*  to create parallax effect */
     background-attachment: fixed;
 
 
 }
 
+/* may need to add width: x% */
 .img1 {
-    background-image: url('/images/main.jpg');
+    background-image: url('../images/main.jpg');
     min-height: 100%;
     
 }
 
 .img2 {
-    background-image: url('/images/pattern.png');
+    background-image: url('../images/pattern.png');
     min-height: 50%;
 }
 
 .img3 {
-    background-image: url('/images/punch.png');
+    background-image: url('../images/punch.png');
     min-height: 40%;
 }
 
 .img4 {
-    background-image: url('/images/rotary.png');
+    background-image: url('../images/rotary.png');
     min-height: 40%;
 }
 
 .img5 {
-    background-image: url('/images/machine.png');
+    background-image: url('../images/machine.png');
     min-height: 40%;
 }
 
 .img6 {
-    background-image: url('/images/rivet.png');
+    background-image: url('../images/rivet.png');
     min-height: 40%;
-}
-
-.section {
-    text-align: center;
-    padding: 35px 60px;
-    background-color: #f8f9fa;
-
-}
-
-/* .about {
-    background-color: #ffffff;
-    color: #666;
-    opacity: 0.8;
-    min-height: 60%;
-} */
-
-.section-dark {
-    background-color: rgba(93, 66, 63, 0.97);
-    color: #faf5f3;
 }
 
 .pictext {
@@ -89,6 +71,26 @@ nav {
     text-transform: uppercase;
     color: #faf5f1;
 }
+
+
+.section {
+    background-color: #f8f9fa !important;
+    padding: 35px 60px;
+    text-align: center;
+}
+
+/* .about {
+    background-color: #ffffff;
+    color: #666;
+    opacity: 0.8;
+    min-height: 60%;
+} */
+
+.section-2 {
+    background-color: rgba(93, 66, 63, 0.97);
+    color: #faf5f3;
+}
+
 
 /* #about-text {
     position: absolute;
@@ -116,3 +118,8 @@ nav {
     height: 100px;
 }
 
+@media(max-width:576px){
+    .img1, .img2, .img3, .img4, .img5, .img6{
+        background-attachment: scroll;
+    }
+}
