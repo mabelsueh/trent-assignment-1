@@ -70,6 +70,20 @@ nav {
 
 }
 
+#about-text {
+    position: absolute;
+    top: 60%;
+    width: 100%;
+    text-align: center;
+    color: #faf5f1;
+    font-size: 15px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    padding-left: 60px;
+    padding-right: 60px;
+
+}
+
 .footer-socials {
     display: inline-block;
 }
