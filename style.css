@@ -16,9 +16,9 @@ nav {
 #quote {
     letter-spacing: 8px;
 }
-.img1, .img2, .img3 {
+.img1, .img2, .img3, .img4, .img5, .img6 {
     position: relative;
-    opacity: 0.9;
+    opacity: 1;
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -36,17 +36,33 @@ nav {
 
 .img2 {
     background-image: url('/images/pattern.png');
-    min-height: 80%;
+    min-height: 50%;
 }
 
 .img3 {
     background-image: url('/images/punch.png');
-    min-height: 400px;
+    min-height: 40%;
+}
+
+.img4 {
+    background-image: url('/images/rotary.png');
+    min-height: 40%;
+}
+
+.img5 {
+    background-image: url('/images/machine.png');
+    min-height: 40%;
+}
+
+.img6 {
+    background-image: url('/images/rivet.png');
+    min-height: 40%;
 }
 
 .section {
     text-align: center;
     padding: 35px 60px;
+    
 
 }
 
@@ -67,14 +83,14 @@ nav {
     top: 50%;
     width: 100%;
     text-align: center;
-    color: #faf5f1;
     font-size: 40px;
     font-weight: 400;
     letter-spacing: 15px;
     text-transform: uppercase;
+    color: #faf5f1;
 }
 
-#about-text {
+/* #about-text {
     position: absolute;
     top: 60%;
     width: 100%;
@@ -86,7 +102,7 @@ nav {
     padding-left: 60px;
     padding-right: 60px;
 
-}
+} */
 
 .footer-socials {
     display: inline-block;
