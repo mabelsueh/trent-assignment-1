@@ -45,15 +45,16 @@ nav {
     padding: 35px 60px;
 }
 
-.about {
+/* .about {
     background-color: #ffffff;
     color: #666;
     opacity: 0.8;
     min-height: 60%;
-}
+} */
 
 .section-dark {
     background-color: rgba(93, 66, 63, 0.97);
+    color: #faf5f3;
 }
 
 .pictext {
