@@ -60,21 +60,10 @@ nav {
     min-height: 40%;
 }
 
-.pictext {
-    position: absolute;
-    top: 50%;
-    width: 100%;
-    text-align: center;
-    font-size: 40px;
-    font-weight: 400;
-    letter-spacing: 15px;
-    text-transform: uppercase;
-    color: #faf5f1;
-}
-
 
 .section {
-    background-color: #f8f9fa !important;
+    /* color is not showing */
+    background-color: #f8f9fa;
     padding: 35px 60px;
     text-align: center;
 }
@@ -86,11 +75,23 @@ nav {
     min-height: 60%;
 } */
 
-.section-2 {
+.section.section-dark {
     background-color: rgba(93, 66, 63, 0.97);
     color: #faf5f3;
 }
 
+
+.pictext {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 400;
+    letter-spacing: 15px;
+    text-transform: uppercase;
+    color: #faf5f1;
+}
 
 /* #about-text {
     position: absolute;
