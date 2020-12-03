@@ -22,6 +22,7 @@ nav {
     /*  to create parallax effect */
     background-attachment: fixed;
 
+
 }
 
 .img1 {
@@ -36,13 +37,14 @@ nav {
 }
 
 .img3 {
-    background-image: url('/images/machine.png');
+    background-image: url('/images/punch.png');
     min-height: 400px;
 }
 
 .section {
     text-align: center;
     padding: 35px 60px;
+
 }
 
 /* .about {
@@ -67,7 +69,6 @@ nav {
     font-weight: 400;
     letter-spacing: 15px;
     text-transform: uppercase;
-
 }
 
 #about-text {
@@ -95,3 +96,4 @@ nav {
 .section3 {
     height: 100px;
 }
+
