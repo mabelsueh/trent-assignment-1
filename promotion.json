@@ -1,0 +1,15 @@
+{
+  "end2020BEO": {
+    "promoName": "Year End Promotion",
+    "description": "Get 10% Off Any Bespoke Order! Applicable to single bespoke piece only.",
+    "img": "images/characters/tanjiro.png",
+    "code": "YEBEO10OFF"
+  },
+  "end2020PPP": {
+    "promoName": "Personalization Markdown",
+    "description": "Get 20% Off Personalization Services!",
+    "img": "images/characters/tanjiro.png",
+    "code": "YEPPP20OFF"
+  }
+  
+}
