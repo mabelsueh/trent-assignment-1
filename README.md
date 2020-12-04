@@ -1,28 +1,35 @@
 # **TGC DSD Assignment 1**
 
+### Single Page Layout Website
+
+By: Mabel Su
+#
+
+## Demo
+
+A live demo of the finished project can be found [here](https://mabelsueh.github.io/trent-assignment-1/).
+
 ## **Motivation:**
 This project requires us to create a website with interactive elements implemented using JavaScript, while also demonstrating 
-understanding of the Five Planes of UI/UX. I have chosen to create an e-commerce site with the purpose of selling quality leathercraft tools and kits 
-with a user-friendly and aesthetically pleasing site that can be navigated intuitively. 
+understanding of the Five Planes of UI/UX. I have chosen to create an single page website with the purpose of advertising bespoke leather crafting services with a user-friendly and aesthetically pleasing site that can be navigated intuitively. 
 
 # 
 ## **Goals & User stories:**
 
-### Owner's Goal:  To sell my products online with ease and have good business insights that help in decision-making. 
+### Owner's Goal:  To advertise my service online with ease and receive enquiries.
 
 ### Owner's User Stories:
--  As an owner, I want my customers to have a smooth shopping experience. 
--  As an owner, I want to track my customer base so I know how to appeal to them better. 
--  As an owner, I want my website to appear on web engine searches easily. 
+-  As an owner, I want my customers to have a smooth browsing experience. 
+-  As an owner, I want to update my promotions easily so they can be changed seasonally. 
+-  As an owner, I want to display customer reviews so that I seem trustable. 
 
-### User's Goal: To view and buy items with ease. 
+### User's Goal: To view and the website and navigate with ease. 
 
 ### User's User Stories:
-- As a site visitor, I want to read the FAQ section with ease, so I can get the information I'm looking for easily.
+
 - As a site visitor, I want the website to be easy to navigate so I can shop easily. 
-- As a site visitor, I want to read reviews about the business so I can purchase with a peace of mind. 
-- As a site visitor, I want to check out as a guest so I can make my first purchase without the hassle of creating an account. 
-- As a site visitor, I want to view items by category so I can view specific items at a glance. 
+- As a site visitor, I want to read reviews about the business so I can engage in the service with a peace of mind. 
+- As a site visitor, I want to enquire before committing to any consultation or service so I don't waste time and money. 
 
 # 
 <!-- 2. List down the scope of the project (features and requirements, non-technical requirements, content requirements) 
@@ -32,32 +39,23 @@ Non-functional Requirements (general characteristics): -->
 ### Non-functional Requirements: 
 - mobile responsiveness: the website should work on as many devices as possible
 - performance criteria: the website should load quickly
-- terms and conditions
-- 
+
 
 # 
 ### Functional Requirements:
 <!-- (how product behaves - feature, mandatory) -->
-- Guests should be able to check out without creating an account
-- The shopping cart icon should always be displayed on top of every page
-- Product information should be stored in a separate JSON file
-- 
+<!-- - Reviews should be in bootstrap carousel
+- Services sohould be in cards -->
+- Promotions should be stored in a separate JSON file. 
+- Contact form should have validation. 
 
 # 
 ### Content requirements:
 - Logo leading to homepage
 - Favicon
-- Featured items
-- Reviews API on the homepage
-- About us page
-- Items, sub categories & items
-- Contact us section with email, phone number, address and maps API
-- Login
-- Search
+- Contact us section
 - Reviews
-- FAQ page 
-- Terms of Service
-- Social media links
+- Social media links at footer
 
 # 
 ## Structure/ Sitemap: 
@@ -81,3 +79,13 @@ need to answer:
 ● Order and context
 ● Presentation of information
 
+## Credits
+
+### Codes
+- Referenced "Fixed Scrolling" method from [Traversy-Media] (https://www.youtube.com/watch?v=JttTcnidSdQ&list=WL&index=1)
+
+### Images
+
+- Background Images: 
+    Gustavo Fring on [Pexels] (https://www.youtube.com/watch?v=JttTcnidSdQ&list=WL&index=1) 
+- Card Images: Maverick_Made on [Instagram] (https://www.instagram.com/p/CIHn2WsgQlN/)
