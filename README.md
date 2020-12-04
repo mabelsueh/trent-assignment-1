@@ -35,14 +35,8 @@ understanding of the Five Planes of UI/UX. I have chosen to create an single pag
 <!-- 2. List down the scope of the project (features and requirements, non-technical requirements, content requirements) 
 Non-functional Requirements (general characteristics): -->
 ## **Requirements:** 
-
-### Non-functional Requirements: 
 - mobile responsiveness: the website should work on as many devices as possible
 - performance criteria: the website should load quickly
-
-
-# 
-### Functional Requirements:
 <!-- (how product behaves - feature, mandatory) -->
 <!-- - Reviews should be in bootstrap carousel
 - Services sohould be in cards -->
@@ -56,7 +50,7 @@ Non-functional Requirements (general characteristics): -->
 - Contact us section
 - Reviews
 - Social media links at footer
-
+<!-- 
 # 
 ## Structure/ Sitemap: 
 ![](images/sitemap.jpg)
@@ -77,7 +71,7 @@ need to answer:
 5. Explain the choices behind the surface of the project (why a particular font, color scheme, mood of background images etc.)
 ● Respect use of whitespace and contrast
 ● Order and context
-● Presentation of information
+● Presentation of information -->
 
 ## Credits
 
@@ -87,5 +81,5 @@ need to answer:
 ### Images
 
 - Background Images: 
-    Gustavo Fring on [Pexels] (https://www.youtube.com/watch?v=JttTcnidSdQ&list=WL&index=1) 
+    Gustavo Fring on [Pexels] (https://www.pexels.com/collections/master-works-with-leather-odkibgy/) 
 - Card Images: Maverick_Made on [Instagram] (https://www.instagram.com/p/CIHn2WsgQlN/)
