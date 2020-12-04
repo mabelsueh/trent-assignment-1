@@ -30,33 +30,33 @@ nav {
 
 /* may need to add width: x% */
 .img1 {
-    background-image: url('../images/main.jpg');
+    background-image: url('./images/main.jpg');
     min-height: 100%;
     
 }
 
 .img2 {
-    background-image: url('../images/pattern.png');
+    background-image: url('./images/pattern.png');
     min-height: 50%;
 }
 
 .img3 {
-    background-image: url('../images/punch.png');
+    background-image: url('./images/punch.png');
     min-height: 50%;
 }
 
 .img4 {
-    background-image: url('../images/rotary.png');
+    background-image: url('./images/rotary.png');
     min-height: 50%;
 }
 
 .img5 {
-    background-image: url('../images/machine.png');
+    background-image: url('./images/machine.png');
     min-height: 50%;
 }
 
 .img6 {
-    background-image: url('../images/rivet.png');
+    background-image: url('./images/rivet.png');
     min-height: 50%;
 }
 
