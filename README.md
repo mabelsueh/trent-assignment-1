@@ -34,6 +34,13 @@ understanding of the Five Planes of UI/UX. I have chosen to create an single pag
 # 
 <!-- 2. List down the scope of the project (features and requirements, non-technical requirements, content requirements) 
 Non-functional Requirements (general characteristics): -->
+## **Features:** 
+- Fixed scrolling website
+- Card introducing services with call to action button
+- Carousel displaying images of products made, with captions on larger devices detailing customer's review
+- Contact form with validation
+
+# 
 ## **Requirements:** 
 - mobile responsiveness: the website should work on as many devices as possible
 - performance criteria: the website should load quickly
@@ -44,42 +51,30 @@ Non-functional Requirements (general characteristics): -->
 - Contact form should have validation. 
 
 # 
-### Content requirements:
-- Logo leading to homepage
-- Favicon
-- Contact us section
-- Reviews
-- Social media links at footer
-<!-- 
-# 
-## Structure/ Sitemap: 
-![](images/sitemap.jpg)
+## **Content requirements:**
+- About section
+- Services section
+- Promotions section
+- Portfolio with review
+- Contact section
+#
+
+## **Choices behind surface of the project:** 
+I chose the background images that gave off a luxurious leather workshop 
+vibe and based off the rest of the colour scheme by selecting colors similar to the pictures via a dropper tool.
+I chose the Montserrat font in sans-serif as I stumbled upon it while looking through fonts that resembled luxurious brand logos.
+In all, the pictures, colours and font choice are all to give off a professional and luxurious feeling so that visitors will have faith in the brand's cratsmanship.
+#
 
 # 
-4. Provide the skeleton of the project (mock-ups) 
-you will read this first
+## **Structure/ Sitemap: **
+![sitemap](images/sitemap.jpg)
 
-need to answer:
-"Where do I click to log in?"
-"Did the checkout process succeed?"
-"Are there more search results?"
-"Does this product meet my needs?"
-"What is the total of my shopping cart?"
-"How much delivery fees do I have to pay?"
 
-# 
-5. Explain the choices behind the surface of the project (why a particular font, color scheme, mood of background images etc.)
-● Respect use of whitespace and contrast
-● Order and context
-● Presentation of information -->
+## **Credits**
+- Referenced "Fixed Scrolling" method from: 
+[Traversy-Media](https://www.youtube.com/watch?v=JttTcnidSdQ&list=WL&index=1)
+- Pictures from various sources:
+[Guvasto Fring](https://www.pexels.com/collections/master-works-with-leather-odkibgy/) for background images and
+[stocksnap.io](https://stocksnap.io/) for card and carousel images
 
-## Credits
-
-### Codes
-- Referenced "Fixed Scrolling" method from [Traversy-Media] (https://www.youtube.com/watch?v=JttTcnidSdQ&list=WL&index=1)
-
-### Images
-
-- Background Images: 
-    Gustavo Fring on [Pexels] (https://www.pexels.com/collections/master-works-with-leather-odkibgy/) 
-- Card Images: Maverick_Made on [Instagram] (https://www.instagram.com/p/CIHn2WsgQlN/)
