@@ -17,7 +17,7 @@ event.preventDefault();
         emailIsInvalid = true;   
     } 
 
-    let name = document.querySelector('#message').value;
+    let message = document.querySelector('#message').value;
     if (message.length < 10){
         messageIsInvalid= true;
     }
