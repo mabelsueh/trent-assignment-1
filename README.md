@@ -77,6 +77,11 @@ Wireframe can be found [here](https://app.moqups.com/mNLMWxHlDC/view/page/a9de4d
 - Referenced "Fixed Scrolling" method from: 
 [Traversy-Media](https://www.youtube.com/watch?v=JttTcnidSdQ&list=WL&index=1)
 - Pictures from various sources:
-[Guvasto Fring](https://www.pexels.com/collections/master-works-with-leather-odkibgy/) for background images and
-[stocksnap.io](https://stocksnap.io/) for card and carousel images
+[Guvasto Fring](https://www.pexels.com/collections/master-works-with-leather-odkibgy/) for background images, 
+[stocksnap.io](https://stocksnap.io/) for card and carousel images and
+[logomakr](https://logomakr.com/5i9oq3) for sample logo creation. 
+
+#
+
+FOR EDUCATIONAL PURPOSES ONLY
 
