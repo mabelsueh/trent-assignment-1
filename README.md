@@ -67,8 +67,10 @@ In all, the pictures, colours and font choice are all to give off a professional
 #
 
 # 
-## **Structure/ Sitemap: **
+## **Structure/ Sitemap:**
 ![sitemap](images/sitemap.jpg)
+
+Wireframe can be found [here](https://app.moqups.com/mNLMWxHlDC/view/page/a9de4d023)
 
 
 ## **Credits**
